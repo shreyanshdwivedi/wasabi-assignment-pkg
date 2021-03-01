@@ -1,6 +1,6 @@
 {
   "name": "wasabi-assignment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Submit-Generate-Fetch user bucket assignment data in Wasabi",
   "main": "index.js",
   "repository": {
